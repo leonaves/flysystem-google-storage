@@ -19,7 +19,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Leonaves\\Flysystem\\GoogleStorage\\": "src/"
+			"Superbalist\\Flysystem\\GoogleStorage\\": "src/"
 		}
 	},
 	"config": {
