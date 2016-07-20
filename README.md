@@ -6,6 +6,7 @@
 [![Packagist Version](https://img.shields.io/packagist/v/superbalist/flysystem-google-storage.svg?style=flat-square)](https://packagist.org/packages/superbalist/flysystem-google-storage)
 [![Total Downloads](https://img.shields.io/packagist/dt/superbalist/flysystem-google-storage.svg?style=flat-square)](https://packagist.org/packages/superbalist/flysystem-google-storage)
 
+## This is a fork to support certain methods v1 of the Cloud Storage API. I make no guarantees it supports them all. use at your peril.
 
 ## Installation
 

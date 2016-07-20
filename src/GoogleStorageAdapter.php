@@ -267,7 +267,7 @@ class GoogleStorageAdapter extends AbstractAdapter
         if ($contents === false) {
             $contents = null;
         }
-        $object['contents'] = $contents;
+        $object['contents'] = $contents->getBody();
         return $object;
     }
 
